@@ -11,4 +11,5 @@
 * [FFmpeg最全教程](https://cloud.tencent.com/developer/article/1773248)
 * [FFmpeg 视频处理入门教程](https://ruanyifeng.com/blog/2020/01/ffmpeg.html)
 * [FFmpeg百度百科介绍](https://baike.baidu.com/item/ffmpeg/2665727)
+* [C#进程调用FFmpeg操作音视频](https://www.cnblogs.com/Can-daydayup/p/15780172.html) 
 * [FFMPEG命令入门到提高，一篇文章就够了](https://zhuanlan.zhihu.com/p/117523405)
