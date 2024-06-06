@@ -11,7 +11,6 @@ FFmpeg是一个开源、功能强大、跨平台、灵活且广泛应用的多�
 5. **广泛的平台支持：** FFmpeg可在多种操作系统上运行，包括Linux、macOS和Windows，以及一些嵌入式系统和移动平台。
 6. **开源和免费：** FFmpeg是开源软件，基于LGPL（Lesser General Public License）许可证发布，可以免费使用和修改。
 
-
 ## FFmpeg相关教程
 * [FFmpeg官网文档](https://ffmpeg.org/)
 * [FFmpeg最全教程](https://cloud.tencent.com/developer/article/1773248)
